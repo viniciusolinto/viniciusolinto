@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou Vinicius 👋
 
-<!--
-**viniciusolinto/viniciusolinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Ciência da Computação**
 
-Here are some ideas to get you started:
+💼 Atuo na área de **Dados, Business Intelligence e Automação**, com experiência em SQL, Python, integração de sistemas e desenvolvimento de soluções orientadas a dados. Sou movido pela resolução de problemas complexos e pela criação de arquiteturas eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 O que estou estudando agora
+*   **Engenharia de Dados:** Construção de pipelines robustos e escaláveis.
+*   **Inteligência Artificial:** Aplicação prática de modelos em fluxos de dados.
+*   **Arquiteturas Modernas:** Foco em Cloud (AWS/Azure) e Data Lakehouse.
+
+## 🛠 Tecnologias e Ferramentas
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | 🐍 Python |
+| **Bancos de Dados** | 🗄 SQL (PostgreSQL, SQL Server) |
+| **Dados & BI** | 📊 Power BI, ETL / ELT |
+| **Infra/Dev** | ⚙ Docker, 🐙 Git, 🔗 APIs REST |
+
+---
+
+## 📫 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-silva-olinto-644028265)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniolinto2345@gmail.com)
+
